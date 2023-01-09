@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Kevin , i use kl.front as my nickname
 - 👀 I’m interested in Creative Front end development
-- 🌱 I’m currently learning front end tools by myself and as a student (Bachelor) like JavaScript and soonly Tailwind CSS
-- 📫 How to reach me ... ? [![Follow - @kl.front](https://img.shields.io/badge/Follow-%40kl.front-2ea44f?logo=instagram)](https://www.instagram.com/kl.front/) [![Follow - My profile](https://img.shields.io/badge/Follow-My_profile-2ea44f?logo=linkedin)](https://www.linkedin.com/in/kevin-labatte-556a06221/) [![Gmail - contact me](https://img.shields.io/badge/Gmail-contact_me-2ea44f?logo=gmail)](mailto:kevin.labatte0@gmail.com)
 
 # 💫 About Me:
-🔭 I’m currently working on my Portfolio and some side project 🛠<br>👯 I’m looking to a internship<br>🌱 I’m currently learning JavaScript and soonly Tailwind CSS<br>⚡ Fun fact, I love creative development 🤤
+🔭 I’m currently working on my Portfolio and some side project 🛠<br>👯 I’m looking to a internship<br>🌱 I’m currently learning javaScript and soonly Tailwind CSS<br>⚡ Fun fact, I love creative development 🤤
 
 
 ## 🌐 Socials:
