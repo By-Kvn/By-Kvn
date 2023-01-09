@@ -1,5 +1,5 @@
 - 👋  Hi, I’m Kevin , i use kl.front as my nickname
-- 👀 I’m interested by creative Front end development
+- 👀 I’m interested by Front-end development
 
 # 💫 About Me:
 🔭 I’m currently working on my Portfolio and some side project 🛠<br>👯 I’m looking to a internship<br>🌱 I’m currently learning javaScript and soonly Tailwind CSS<br>⚡ Fun fact, I love creative development 🤤
