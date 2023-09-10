@@ -2,7 +2,7 @@
 - 👀 I’m interested by Front-end development
 
 # 💫 About Me:
-🔭 I’m currently working on my Portfolio and some side projects 🛠<br>👯 I’m looking to a internship<br>🌱 I’m currently learning JavaScript & w/ React JS and soonly Tailwind CSS<br>⚡ Fun fact, I love creative development 🤤
+🔭 I’m currently working on my Portfolio and some side projects 🛠<br><br>🌱 I’m currently learning JavaScript & w/ React JS and soonly Tailwind CSS<br>⚡ Fun fact, I love creative development 🤤
 
 
 ## 🌐 Socials:
