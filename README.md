@@ -1,5 +1,5 @@
 - 👋  Hi, I’m Kevin , i use kl.front as my nickname
-- 👀 I’m interested by Front-end development
+- 👀 Currently wip on https://kevinlabatte.fr/
 
 # 💫 About Me:
 🔭 I’m currently working on some side projects 🛠<br><br>🌱 I’m currently learning Next JS & Tailwind CSS<br>⚡ Fun fact, I love creative development 🤤
